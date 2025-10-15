@@ -1,2 +1,2 @@
-# GM_jump_start
+# Jump-START for GamerMaker
 GameMaker starter template for building precision platformer games.
